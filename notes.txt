@@ -1,0 +1,20 @@
+Attribute Information: 
+1.model - > Ford Car Brands 		# useful
+
+2.year - >Production Year 
+
+3.price - >Price of car in $ 
+
+4.transmission - > Automatic,Manual, Semi-Auto		** Disputed but i will usee
+ 
+5.mileage -> Number of miles traveled  **USE as corr=-0.53
+
+6.fuel_Type -> Petrol,Diesel,Hybrid,Electric,Other 		** USE
+	
+7.tax -> Annual Tax 
+
+8.mpg - > Miles per Gallon 
+
+9.engineSize - > Car's Engine Size **USE as corr = 0.41
+
+
